@@ -62,16 +62,6 @@ export default function HomePage({
     <>
       <section className="container-fixed">
         <div className="my-12 flex flex-col items-center gap-4 md:my-16 lg:my-20 lg:gap-6">
-          <Badge variant="secondary" className="bg-transparent" asChild>
-            <Link
-              href={siteConfig.links.github}
-              target="_blank"
-              rel="noreferrer"
-            >
-              <ZapIcon className="fill-primary" />
-              {t("Hero.Announcement")} <ArrowRightIcon />
-            </Link>
-          </Badge>
 
           <h1 className="text-foreground text-center text-4xl font-semibold tracking-tight text-balance sm:text-5xl lg:text-6xl">
             {t("Hero.Title")}
@@ -84,15 +74,6 @@ export default function HomePage({
           <div className="flex items-center justify-center gap-4">
             <Button asChild>
               <Link href="/tools">{t("Hero.GetStarted")}</Link>
-            </Button>
-            <Button variant="ghost" asChild>
-              <Link
-                href={siteConfig.links.github}
-                target="_blank"
-                rel="noreferrer"
-              >
-                <CustomIcons.gitHub /> {t("Hero.GitHub")}
-              </Link>
             </Button>
           </div>
         </div>
@@ -184,16 +165,6 @@ export default function HomePage({
               <Link href="/tools">
                 {t("Ready.GetStarted")}
                 <ArrowRightIcon />
-              </Link>
-            </Button>
-            <Button size="lg" variant="outline" asChild>
-              <Link
-                href={siteConfig.links.github}
-                target="_blank"
-                rel="noreferrer"
-              >
-                <CustomIcons.gitHub /> {t("Ready.GitHub")}
-                <ArrowUpRightIcon />
               </Link>
             </Button>
           </div>
