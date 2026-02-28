@@ -14,7 +14,7 @@ export default function ToolsLayout({
         <div className="sticky top-[65px] h-[calc(100vh-65px)] pt-8">
           <div className="no-scrollbar h-full overflow-auto pb-8">
             <div className="mt-6 flex flex-col gap-4">
-              <AsideBlock className="max-w-[90%]" />
+              
             </div>
           </div>
         </div>
