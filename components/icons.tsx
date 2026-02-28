@@ -67,19 +67,9 @@ const LucideIcons: Record<string, LucideIcon> = {
 
 export const CustomIcons = {
   logo: (props: IconProps) => (
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 492 200" {...props}>
-       <text 
-        x="150" 
-        y="55" 
-        font-family="Arial, sans-serif" 
-        font-size="20" 
-        font-weight="bold" 
-        fill="#333333" 
-        text-anchor="middle" 
-        dominant-baseline="middle">
-        10015Tools.Online
-    </text>
-    </svg>
+    <span {...(props as React.HTMLAttributes<HTMLSpanElement>)}>
+      10015Tools.Online
+    </span>
   ),
   gitHub: (props: IconProps) => (
     <svg viewBox="0 0 438.549 438.549" {...props}>
