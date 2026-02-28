@@ -17,13 +17,13 @@
   },
   "HomePage": {
     "Meta": {
-      "Title": "0xF - Ferramentas de desenvolvimento open source",
-      "Description": "Uma coleção leve e open source de ferramentas práticas para programadores."
+      "Title": "10015 TOOLS——Ferramentas de desenvolvimento open source",
+      "Description": "0015 TOOLS oferece mais de 1000 ferramentas online gratuitas, incluindo ferramentas para desenvolvedores, formatação de código, compactação, criptografia, descriptografia, conversão de links de download, formatação JSON, ferramentas de teste de expressões regulares, criação de favicon online, ferramentas de caligrafia, conversão entre português (Brasil) e chinês simplificado/tradicional, conversão de links de download do Thunder, conversão de bases numéricas, QR code, compactação de fotos, fusão de PDF."
     },
     "Hero": {
-      "Announcement": "Disponível como open source no GitHub",
-      "Title": "Utilitários Sempre à Mão",
-      "Description": "Uma coleção leve e open source de ferramentas práticas para programadores.",
+      "Announcement": "Disponível como open source no GitHub",      
+      "Title": "10015 TOOLS——Ferramentas de desenvolvimento open source",
+      "Description": "0015 TOOLS oferece mais de 1000 ferramentas online gratuitas, incluindo ferramentas para desenvolvedores, formatação de código, compactação, criptografia, descriptografia, conversão de links de download, formatação JSON, ferramentas de teste de expressões regulares, criação de favicon online, ferramentas de caligrafia, conversão entre português (Brasil) e chinês simplificado/tradicional, conversão de links de download do Thunder, conversão de bases numéricas, QR code, compactação de fotos, fusão de PDF.",
       "GetStarted": "Começar",
       "GitHub": "Ver no GitHub"
     },

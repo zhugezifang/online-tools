@@ -17,13 +17,13 @@
   },
   "HomePage": {
     "Meta": {
-      "Title": "0xF - Kit de herramientas de código abierto para desarrolladores",
-      "Description": "Una colección ligera y de código abierto de herramientas prácticas para el desarrollo."
+      "Title": "10015 TOOLS——Caja de herramientas gratuita en línea",
+      "Description": "Ofrece más de 1000 herramientas gratuitas en línea, incluyendo herramientas para desarrolladores, formateo de código, compresión, encriptación, desencriptación, conversión de enlaces de descarga, formateo JSON, herramientas de prueba de expresiones regulares, creación de favicons en línea, herramientas de caligrafía, conversión de chino simplificado a tradicional, conversión de enlaces de descarga de Thunderbolt, conversión de sistemas numéricos, códigos QR, compresión de fotos, fusión de archivos PDF."
     },
     "Hero": {
       "Announcement": "Publicado como código abierto en GitHub",
-      "Title": "Herramientas siempre a mano",
-      "Description": "Una colección ligera y de código abierto de herramientas prácticas para el desarrollo.",
+      "Title": "10015 TOOLS——Caja de herramientas gratuita en línea",
+      "Description": "Ofrece más de 1000 herramientas gratuitas en línea, incluyendo herramientas para desarrolladores, formateo de código, compresión, encriptación, desencriptación, conversión de enlaces de descarga, formateo JSON, herramientas de prueba de expresiones regulares, creación de favicons en línea, herramientas de caligrafía, conversión de chino simplificado a tradicional, conversión de enlaces de descarga de Thunderbolt, conversión de sistemas numéricos, códigos QR, compresión de fotos, fusión de archivos PDF.",
       "GetStarted": "Comenzar",
       "GitHub": "Ver en GitHub"
     },
