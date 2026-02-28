@@ -12,6 +12,7 @@ export const metadata: Metadata = {
   },
   metadataBase: new URL(siteConfig.url),
   alternates: {
+    canonical: "./",
     languages: localePrefixes,
   },
   icons: {
