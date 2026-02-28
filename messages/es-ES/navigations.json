@@ -9,11 +9,6 @@
         "title": "Herramientas",
         "href": "/tools",
         "slug": "tools"
-      },
-      {
-        "title": "GitHub",
-        "href": "https://github.com/jsthon/0xf",
-        "external": true
       }
     ],
     "sections": [

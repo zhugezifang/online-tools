@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: "0xF",
-  url: "https://0xf.com",
+  name: "10015Tools.Online",
+  url: "https://www.10015tools.online",
   links: {
     github: "https://github.com/jsthon/0xf",
   },
