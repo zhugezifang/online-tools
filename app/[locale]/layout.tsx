@@ -32,6 +32,7 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} suppressHydrationWarning>
+      <meta name="google-site-verification" content="B4wsPZ-f9DEQHMTt9T61DopHndR3tnN8L_K2lCibT08" />
       <body
         className={cn(
           "min-h-svh overscroll-none font-sans antialiased",
